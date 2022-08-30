@@ -1,0 +1,584 @@
+Affenpinscher[7]
+Afghan Hound[8]
+Africanis[9]
+Aidi[10]
+Airedale Terrier[11]
+Akbash[12]
+Akita[13]
+Aksaray Malaklisi
+Alano Español[14]
+Alapaha Blue Blood Bulldog[15]
+Alaskan husky[16]
+Alaskan Klee Kai[17]
+Alaskan Malamute[18]
+Alopekis
+Alpine Dachsbracke[19]
+American Bulldog[20]
+American Bully
+American Cocker Spaniel[21]
+American English Coonhound[22]
+American Eskimo Dog[23]
+American Foxhound[24]
+American Hairless Terrier[25]
+American Pit Bull Terrier[26]
+American Staffordshire Terrier[26]
+American Water Spaniel[27]
+Andalusian Hound[28]
+Anglo-Français de Petite Vénerie[29]
+Appenzeller Sennenhund[30]
+Ariegeois[31]
+Armant[32]
+Armenian Gampr dog
+Artois Hound[33]
+Assyrian Mastiff
+Australian Cattle Dog[34]
+Australian Kelpie[34]
+Australian Shepherd[35]
+Australian Stumpy Tail Cattle Dog[36]
+Australian Terrier[37]
+Austrian Black and Tan Hound[38]
+Austrian Pinscher[39]
+Azawakh[40]
+Bakharwal dog
+Banjara Hound[41]
+Barbado da Terceira[42]
+Barbet[43]
+Basenji[44]
+Basque Shepherd Dog[45]
+Basset Artésien Normand[46]
+Basset Bleu de Gascogne[47]
+Basset Fauve de Bretagne[48]
+Basset Hound[49]
+Bavarian Mountain Hound[50]
+Beagle[49]
+Beagle-Harrier[51]
+Belgian Shepherd[52]
+Bearded Collie[53]
+Beauceron[54]
+Bedlington Terrier[55]
+Bergamasco Shepherd[56]
+Berger Picard[57]
+Bernese Mountain Dog[30]
+Bichon Frisé[58]
+Billy[59]
+Black and Tan Coonhound[60]
+Black Norwegian Elkhound[61]
+Black Russian Terrier[62]
+Black Mouth Cur[63]
+Bloodhound[64]
+Blue Lacy[65]
+Blue Picardy Spaniel[66]
+Bluetick Coonhound[60]
+Boerboel[67]
+Bohemian Shepherd[68]
+Bolognese[69]
+Border Collie[70]
+Border Terrier[71]
+Borzoi[72]
+Bosnian Coarse-haired Hound[73]
+Boston Terrier[74]
+Bouvier des Ardennes[75]
+Bouvier des Flandres[76]
+Boxer[77]
+Boykin Spaniel[78]
+Bracco Italiano[79]
+Braque d'Auvergne[80]
+Braque de l'Ariège[80]
+Braque du Bourbonnais[81]
+Braque Francais[82]
+Braque Saint-Germain[81]
+Briard[54]
+Briquet Griffon Vendéen[83]
+Brittany[66]
+Broholmer[84]
+Bruno Jura Hound[85]
+Brussels Griffon[86]
+Bucovina Shepherd Dog[87]
+Bull Arab
+Bull Terrier[88]
+Bulldog[89]
+Bullmastiff[89]
+Bully Kutta
+Burgos Pointer[90]
+Buryat-Mongolian Wolfhound
+Ca de Bou
+Ca Mè Mallorquí[91]
+Cairn Terrier[92]
+Calupoh
+Campeiro Bulldog
+Can de Chira
+Can de Palleiro
+Canaan Dog[93]
+Canadian Eskimo Dog[18]
+Cane Corso[10]
+Cane di Oropa
+Cane Paratore
+Cantabrian Water Dog
+Cão da Serra de Aires[94]
+Cão de Castro Laboreiro[95]
+Cão de Gado Transmontano[96]
+Cão Fila de São Miguel[97]
+Cardigan Welsh Corgi[98]
+Carea Castellano Manchego[99]
+Carea Leonés
+Carolina Dog[100]
+Carpathian Shepherd Dog[101]
+Catahoula Leopard Dog[102]
+Catalan Sheepdog[103]
+Caucasian Shepherd Dog[104]
+Cavalier King Charles Spaniel[105]
+Central Asian Shepherd Dog[106]
+Cesky Fousek[107]
+Cesky Terrier[108]
+Chesapeake Bay Retriever[109]
+Chien Français Blanc et Noir[110]
+Chien Français Blanc et Orange[111]
+Chien Français Tricolore[110]
+Chihuahua[112]
+Chilean Terrier
+Chinese Crested Dog[113]
+Chinook[114]
+Chippiparai[115]
+Chongqing dog
+Chortai[116]
+Chow Chow[117]
+Chukotka sled dog
+Cimarrón Uruguayo
+Cirneco dell'Etna[118]
+Clumber Spaniel[119]
+Colombian fino hound
+Continental bulldog
+Coton de Tulear[120]
+Cretan Hound[121]
+Croatian Sheepdog[101]
+Curly-Coated Retriever[109]
+Cursinu[68]
+Czechoslovakian Wolfdog[122]
+D–K
+Dachshund[123]
+Dalmatian[124]
+Dandie Dinmont Terrier[125]
+Danish Spitz
+Danish-Swedish Farmdog[126]
+Denmark Feist[127]
+Dingo [note 1]
+Dobermann[50]
+Dogo Argentino[129]
+Dogo Guatemalteco
+Dogo Sardesco
+Dogue Brasileiro[129]
+Dogue de Bordeaux[130]
+Drentse Patrijshond[131]
+Drever[132]
+Dunker[133]
+Dutch Shepherd[134]
+Dutch Smoushond[135]
+East Siberian Laika[136]
+East European Shepherd[137]
+Ecuadorian Hairless Dog[138]
+English Cocker Spaniel[139]
+English Foxhound[140]
+English Mastiff[130]
+English Setter[141]
+English Shepherd[142]
+English Springer Spaniel[143]
+English Toy Terrier (Black & Tan)[144]
+Entlebucher Mountain Dog[145]
+Estonian Hound[146]
+Estrela Mountain Dog[95]
+Eurasier[117]
+Field Spaniel[147]
+Fila Brasileiro[129]
+Finnish Hound[148]
+Finnish Lapphund[149]
+Finnish Spitz[150]
+Flat-Coated Retriever[151]
+French Bulldog[152]
+French Spaniel[153]
+Galgo Español[154]
+Garafian Shepherd[155]
+Gascon Saintongeois[29]
+Georgian Shepherd
+German Hound
+German Longhaired Pointer[156]
+German Pinscher[7]
+German Roughhaired Pointer[157]
+German Shepherd[158]
+German Shorthaired Pointer[156]
+German Spaniel[119]
+German Spitz[159]
+German Wirehaired Pointer[156]
+Giant Schnauzer[160]
+Glen of Imaal Terrier[161]
+Golden Retriever[162]
+Gończy Polski[163]
+Gordon Setter[141]
+Grand Anglo-Français Blanc et Noir[164]
+Grand Anglo-Français Blanc et Orange[164]
+Grand Anglo-Français Tricolore[164]
+Grand Basset Griffon Vendéen[165]
+Grand Bleu de Gascogne[166]
+Grand Griffon Vendéen[83]
+Great Dane[167]
+Greater Swiss Mountain Dog[145]
+Greek Harehound[168]
+Greek Shepherd[169]
+Greenland Dog[170]
+Greyhound[72]
+Griffon Bleu de Gascogne[47]
+Griffon Fauve de Bretagne[48]
+Griffon Nivernais[46]
+Gull Dong
+Gull Terrier
+Hällefors Elkhound
+Halden Hound
+Hamiltonstövare[171]
+Hanover Hound[172]
+Harrier[173]
+Havanese[69]
+Himalayan Sheepdog[174]
+Hierran Wolfdog
+Hokkaido[13]
+Hovawart[175]
+Huntaway[176]
+Hygen Hound[148]
+Ibizan Hound[118]
+Icelandic Sheepdog[177]
+Indian pariah dog
+Indian Spitz
+Irish Red and White Setter[178]
+Irish Setter[178]
+Irish Terrier[11]
+Irish Water Spaniel[179]
+Irish Wolfhound[180]
+Istrian Coarse-haired Hound[181]
+Istrian Shorthaired Hound[73]
+Italian Greyhound[182]
+Jack Russell Terrier[183]
+Jagdterrier[108]
+Japanese Chin[184]
+Japanese Spitz[185]
+Japanese Terrier[186]
+Jindo[187]
+Jonangi
+Kai Ken
+Kaikadi[188]
+Kangal Shepherd Dog[12]
+Kanni[41]
+Karakachan dog
+Karelian Bear Dog[189]
+Kars[190]
+Karst Shepherd[191]
+Keeshond[192]
+Kerry Beagle[51]
+Kerry Blue Terrier[193]
+Khala [194]
+King Charles Spaniel[184]
+King Shepherd[75]
+Kintamani
+Kishu[195]
+Kokoni
+Kombai[196]
+Komondor[197]
+Kooikerhondje[198]
+Koolie
+Koyun dog
+Kromfohrländer[186]
+Kuchi[199]
+Kuvasz[200]
+L–R
+Labrador Retriever[201]
+Lagotto Romagnolo[202]
+Lakeland Terrier[71]
+Lancashire Heeler[35]
+Landseer[203]
+Lapponian Herder[150]
+Large Münsterländer[204]
+Leonberger[129]
+Levriero Sardo
+Lhasa Apso
+Liangshan Dog[205]
+Lithuanian Hound[146]
+Lobito Herreño
+Löwchen[120]
+Lupo Italiano
+Mackenzie River husky
+Magyar agár[206]
+Mahratta Greyhound[207]
+Maltese[58]
+Manchester Terrier[144]
+Maneto[208]
+Maremmano-Abruzzese Sheepdog[56]
+McNab dog
+Miniature American Shepherd
+Miniature Bull Terrier[88]
+Miniature Fox Terrier
+Miniature Pinscher[39]
+Miniature Schnauzer[209]
+Molossus of Epirus
+Montenegrin Mountain Hound[210]
+Mountain Cur[168]
+Mountain Feist[127]
+Mucuchies[211]
+Mudhol Hound[212]
+Mudi[213]
+Neapolitan Mastiff[214]
+Nenets Herding Laika
+New Guinea singing dog
+New Zealand Heading Dog
+Newfoundland[215]
+Norfolk Terrier[92]
+Norrbottenspets[216]
+Northern Inuit Dog
+Norwegian Buhund[177]
+Norwegian Elkhound[217]
+Norwegian Lundehund[218]
+Norwich Terrier[219]
+Nova Scotia Duck Tolling Retriever[198]
+Old Croatian Sighthound
+Old Danish Pointer[220]
+Old English Sheepdog[60]
+Old English Terrier[221]
+Olde English Bulldogge[20]
+Otterhound[140]
+Pachon Navarro
+Pampas Deerhound
+Papillon[222]
+Parson Russell Terrier[223]
+Pastore della Lessinia e del Lagorai
+Patagonian Sheepdog
+Patterdale Terrier[224]
+Pekingese[225]
+Pembroke Welsh Corgi[98]
+Perro Majorero
+Perro de Pastor Mallorquin
+Perro de Presa Canario[226]
+Perro de Presa Mallorquin[227]
+Peruvian Inca Orchid[228]
+Petit Basset Griffon Vendéen[165]
+Petit Bleu de Gascogne[166]
+Phalène[222]
+Pharaoh Hound[229]
+Phu Quoc Ridgeback
+Picardy Spaniel[153]
+Plummer Terrier[224]
+Plott Hound[230]
+Podenco Canario[93]
+Podenco Valenciano
+Pointer[151]
+Poitevin[181]
+Polish Greyhound[231]
+Polish Hound[232]
+Polish Lowland Sheepdog[233]
+Polish Tatra Sheepdog[234]
+Pomeranian[235]
+Pont-Audemer Spaniel[236]
+Poodle[237]
+Porcelaine[59]
+Portuguese Podengo[238]
+Portuguese Pointer[239]
+Portuguese Water Dog[240]
+Posavac Hound[241]
+Pražský Krysařík[242]
+Pshdar dog
+Pudelpointer[220]
+Pug[152]
+Puli[240]
+Pumi[197]
+Pungsan dog
+Pyrenean Mastiff[243]
+Pyrenean Mountain Dog[243]
+Pyrenean Sheepdog[215]
+Rafeiro do Alentejo[244]
+Rajapalayam[245]
+Rampur Greyhound[35]
+Rat Terrier[246]
+Ratonero Bodeguero Andaluz
+Ratonero Mallorquin
+Ratonero Murciano
+Ratonero Valenciano
+Redbone Coonhound[247]
+Rhodesian Ridgeback[172]
+Romanian Mioritic Shepherd Dog[101]
+Romanian Raven Shepherd Dog[101]
+Rottweiler[167]
+Rough Collie[70]
+Russian Spaniel
+Russian Toy[213][248]
+Russo-European Laika[136]
+Ryukyu Inu
+S–Z
+Saarloos Wolfdog[122]
+Sabueso Español[249]
+Saint Bernard[203]
+Saint Hubert Jura Hound[85]
+Saint-Usuge Spaniel
+Saluki[154]
+Samoyed[185]
+Sapsali
+Sarabi dog[250]
+Sardinian Shepherd Dog
+Šarplaninac[101]
+Schapendoes[57]
+Schillerstövare[132]
+Schipperke[251]
+Schweizer Laufhund[111]
+Schweizerischer Niederlaufhund[252]
+Scottish Deerhound[180]
+Scottish Terrier[253]
+Sealyham Terrier[125]
+Segugio dell'Appennino
+Segugio Italiano[249]
+Segugio Maremmano
+Serbian Hound[254]
+Serbian Tricolour Hound[210]
+Serrano Bulldog
+Shar Pei
+Shetland Sheepdog[255]
+Shiba Inu[256]
+Shih Tzu[205]
+Shikoku[114]
+Shiloh Shepherd[242]
+Siberian Husky[170]
+Silken Windhound
+Silky Terrier[37]
+Sinhala Hound
+Skye Terrier[253]
+Sloughi[40]
+Slovakian Wirehaired Pointer[157]
+Slovenský Cuvac[200]
+Slovenský Kopov[232]
+Smalandstövare[163]
+Small Greek domestic dog
+Small Münsterländer[204]
+Smooth Collie[255]
+Smooth Fox Terrier[257]
+Soft-Coated Wheaten Terrier[161]
+South Russian Ovcharka[258]
+Spanish Mastiff[214]
+Spanish Water Dog[179]
+Spinone Italiano[79]
+Sporting Lucas Terrier[126]
+Stabyhoun[131]
+Staffordshire Bull Terrier[259]
+Standard Schnauzer[160]
+Stephens Stock[260]
+Styrian Coarse-haired Hound[19]
+Sussex Spaniel[147]
+Swedish Elkhound[261]
+Swedish Lapphund[261]
+Swedish Vallhund[76]
+Swedish White Elkhound
+Taigan[207]
+Taiwan Dog
+Tamaskan Dog
+Tang Dog
+Tazy
+Teddy Roosevelt Terrier
+Telomian
+Tenterfield Terrier
+Terrier Brasileiro[246]
+Thai Bangkaew Dog
+Thai Ridgeback[262]
+Tibetan Kyi Apso
+Tibetan Mastiff[263]
+Tibetan Spaniel[264]
+Tibetan Terrier[264]
+Tonya Finosu
+Torkuz[174]
+Tornjak[174]
+Tosa Inu[265]
+Toy Fox Terrier[74]
+Toy Manchester Terrier[144]
+Transylvanian Hound[266]
+Treeing Cur
+Treeing Feist[267]
+Treeing Tennessee Brindle
+Treeing Walker Coonhound[230]
+Trigg Hound[268]
+Tyrolean Hound[269]
+Vikhan[270]
+Villano de Las Encartaciones
+Villanuco de Las Encartaciones
+Vizsla[271]
+Volpino Italiano[235]
+Weimaraner[272]
+Welsh Sheepdog
+Welsh Springer Spaniel[143]
+Welsh Terrier[193]
+West Country Harrier[273]
+West Highland White Terrier[219]
+West Siberian Laika[189]
+Westphalian Dachsbracke[132]
+Wetterhoun[236]
+Whippet[206]
+White Shepherd
+White Swiss Shepherd Dog[68]
+Wire Fox Terrier[257]
+Wirehaired Pointing Griffon[274]
+Wirehaired Vizsla
+Xiasi Dog
+Xoloitzcuintle[275]
+Yakutian Laika
+Yorkshire Terrier[276]
+Zerdava
+Extinct varieties and types
+Alaunt[277]
+Alpine Mastiff[278]
+Argentine Polar Dog
+Belgian Mastiff[279]
+Black and Tan Terrier[280]
+Blue Paul Terrier[281]
+Braque Dupuy[282]
+Buckhound
+Bull and terrier
+Bullenbeisser[283]
+Chien-gris[284]
+Chiribaya Dog
+Cordoba Fighting Dog
+Cumberland Sheepdog
+Cur[285]
+Dalbo dog[286]
+Dogo cubano[287]
+Dumfriesshire Black and Tan Foxhound
+English Water Spaniel
+English White Terrier[280]
+Fila da Terceira
+Fuegian dog
+Grand Fauve de Bretagne[48]
+Halls Heeler[288]
+Hare Indian Dog
+Hawaiian Poi Dog
+King's White Hound
+Kurī[289]
+Lapponian Shepherd
+Limer
+Marquesan Dog
+Molossus
+Moscow Water Dog
+Norfolk Spaniel
+Norman Hound
+North Country Beagle
+Old Croatian Sighthound
+Old English Bulldog
+Old Spanish Pointer
+Old Welsh Grey Sheepdog
+Paisley Terrier
+Polynesian Dog
+Rache
+Rastreador Brasileiro[290]
+Saint John's water dog
+Sakhalin Husky
+Salish Wool Dog
+Sleuth hound
+Southern Hound[82]
+Staghound
+Tahitian Dog
+Tahltan Bear Dog[291]
+Talbot Hound[60]
+Tesem
+Toy Bulldog
+Toy Trawler Spaniel
+Turnspit dog
+Tweed Water Spaniel[292]
+Welsh Hillman[293]
